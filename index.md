@@ -10,7 +10,7 @@ Alle meine Scripts kannst du hier Downloaden (Maps auch)
 Virgil Abloh | Developer (FiveM, Lua)
 
 
-[Download]
+[Download] <a href="file.txt">Download File</a>
 - FiveM IKEA
 
 **Bold** and _Italic_ and `Code` text
