@@ -12,7 +12,7 @@ Alle meine Scripts kannst du hier Downloaden (Maps auch)
 Virgil Abloh | Developer (FiveM, Lua)
 
 
-[Download](google.com=
+[Download](google.com)
 ## Header 2
 ### Header 3
 
